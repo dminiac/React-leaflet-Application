@@ -52,7 +52,7 @@ Overall experience with the system such as UI design and usability.
 Clone the repository
 
 ```
- https://github.com/Err0rBlade/react-leaflet-app-1.git
+ https://github.com/dminiac/React-leaflet-Application.git
 ```
 
 Install packages for Node backend
